@@ -1,0 +1,42 @@
+C:\Users\dilusha\Desktop\GAD\GAD\bin\Debug\GAD.exe.config
+C:\Users\dilusha\Desktop\GAD\GAD\bin\Debug\GAD.exe
+C:\Users\dilusha\Desktop\GAD\GAD\bin\Debug\GAD.pdb
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.Properties.Resources.resources
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.csproj.GenerateResource.cache
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.csproj.CoreCompileInputs.cache
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.exe
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.pdb
+C:\Users\dilusha\Desktop\GAD\GAD\bin\Debug\MetroFramework.Design.dll
+C:\Users\dilusha\Desktop\GAD\GAD\bin\Debug\MetroFramework.dll
+C:\Users\dilusha\Desktop\GAD\GAD\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.csproj.CopyComplete
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.Adminlogin.resources
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.Splogin.resources
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.coologin.resources
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.Home.resources
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.Adminplatform.resources
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.supervisoracc.resources
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.cooacc.resources
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.csprojAssemblyReference.cache
+C:\Users\dilusha\Desktop\GAD\GAD\obj\Debug\GAD.form0.resources
+D:\NIBM\GUI\GAD cw2\GAD\bin\Debug\GAD.exe.config
+D:\NIBM\GUI\GAD cw2\GAD\bin\Debug\GAD.exe
+D:\NIBM\GUI\GAD cw2\GAD\bin\Debug\GAD.pdb
+D:\NIBM\GUI\GAD cw2\GAD\bin\Debug\MetroFramework.Design.dll
+D:\NIBM\GUI\GAD cw2\GAD\bin\Debug\MetroFramework.dll
+D:\NIBM\GUI\GAD cw2\GAD\bin\Debug\MetroFramework.Fonts.dll
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.csproj.AssemblyReference.cache
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.Home.resources
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.Adminlogin.resources
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.Splogin.resources
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.coologin.resources
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.Adminplatform.resources
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.supervisoracc.resources
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.cooacc.resources
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.form0.resources
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.Properties.Resources.resources
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.csproj.GenerateResource.cache
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.csproj.CoreCompileInputs.cache
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.csproj.CopyComplete
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.exe
+D:\NIBM\GUI\GAD cw2\GAD\obj\Debug\GAD.pdb
